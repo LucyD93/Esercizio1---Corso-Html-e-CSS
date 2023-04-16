@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap>");
+
+html, body {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+address{
+    padding: 10px;
+
+}
+
+#su{
+    padding-left: 10px;
+}
+
+#contenitore{
+    padding: 10px;
+}
+
+hr{
+    border: 1px dashed black;
+    align-content: center;
+}
+
+abbr:hover{
+    font-weight: bold;
+}
+
+#citazione{
+    background-color: rgb(217, 217, 217);
+    padding: 5px;
+    margin: 10px;
+    border: 20px;
+}
+
+a{
+    color: blue;
+}
+
+
+
